@@ -1,1 +1,1 @@
-As instructed in STorm Processor COokbook
+As instructed in Storm Processor Cookbook
